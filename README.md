@@ -5,6 +5,8 @@ This is a structured plan, with direct instructions to help a marketing team per
 
 <center><img width="40%" src="https://www.optimizely.com/contentassets/08726e145f1b4743a0ba2f30c0447b76/ab-testing.png"></center>
 
+## [Click here to see the A/B Test Plan](https://github.com/rafaelnduarte/A-B_Testing-Experiment-Planning/blob/main/A_B%20Test%20Plan.pdf)
+
 # Overview
 
 An **A/B test** is a controlled experiment to compare two versions of a marketing element, such as a webpage, email, or advertisement. 
